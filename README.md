@@ -8,10 +8,10 @@
     <a href="https://www.linkedin.com/in/ahmed-m-khalaf/"><img alt="linkedin Account" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"></a>
     <a href="https://docs.microsoft.com/en-us/users/ahmedkhalaf/"><img alt="Microsoft Learn Account" src="https://img.shields.io/badge/Microsoft%20Learn%20Account-%230077B5.svg?logo=microsoft&logoColor=white"></a>
     <br>
-    <a href="https://github.com/ahmedmokhalaf"><img alt="linkedin" src="https://komarev.com/ghpvc/?username=ahmedmokhalaf&style=flat&label=PROFILE+VIEWS"></a>
+    <a href="https://github.com/ahmedmokhalaf"><img alt="PROFILE VIEWS" src="https://komarev.com/ghpvc/?username=ahmedmokhalaf&style=flat&label=PROFILE+VIEWS"></a>
     <br/>
     <br/>
-     <a href="#" ><img alt="Quotes" src="https://github-readme-quotes.herokuapp.com/quote?theme=slateorange&layout=zues"></a>
+     <a href="https://github-readme-quotes.herokuapp.com/quote?theme=slateorange&layout=zues" ><img alt="Quotes" src="https://github-readme-quotes.herokuapp.com/quote?theme=slateorange&layout=zues"></a>
     <br/>
     <br/>
 
@@ -20,7 +20,7 @@
 
 ## 🔥 GitHub Profile Stats 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmokhalaf&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Ahmed Khalaf's github stats" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmokhalaf&layout=compact&theme=react&hide_border=true" />
+<img Align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmokhalaf&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Ahmed Khalaf's github stats" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmokhalaf&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ## 🔥 Streak stats
