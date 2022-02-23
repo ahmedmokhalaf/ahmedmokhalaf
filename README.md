@@ -19,9 +19,8 @@
 
 
 ## 🔥 GitHub Profile Stats 
-<p>
-<img Align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmokhalaf&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Ahmed Khalaf's github stats" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmokhalaf&layout=compact&theme=react&hide_border=true" />
-</p>
+![ahmedmokhalaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmokhalaf&show_icons=true&include_all_commits=true&theme=react&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmokhalaf&layout=compact&theme=react&hide_border=true)
 
 ## 🔥 Streak stats
 <p Align="center">
